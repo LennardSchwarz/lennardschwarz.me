@@ -4,7 +4,7 @@ Code for the landing page lennardschwarz.me
 # Template
 https://github.com/ugurcandede/Under-Construction
 
-# Deploy Now
+# Deploy Now (not used right now!!)
 Use Deploy Now on ionos and set website to "dist" folder on main
 
 # Dev Process
