@@ -1,7 +1,7 @@
 <template>
   <div id="app">
     <Body class="body" />
-    <particles-bg type="cobweb" color="#FFFFF0" num={40} :canvas="{backgroundColor:'#000000'}" :bg="true"/>
+    <particles-bg type="cobweb" color="#be9b7b" num={20} :canvas="{backgroundColor:'#ffffff'}" :bg="true"/>
   </div>
 </template>
 
@@ -24,6 +24,5 @@ export default {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
-  color: #eeeeeeb2;
 }
 </style>
