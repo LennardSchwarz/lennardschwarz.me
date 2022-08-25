@@ -1,7 +1,7 @@
 <template>
   <div>
-    <h1>Lennard Schwarz</h1>
-    <h3>The coolest dude in town.</h3>
+    <h1 class="body-text">Lennard Schwarz</h1>
+    <h3 class="body-text">The coolest dude in town.</h3>
   </div>
 </template>
 
@@ -15,13 +15,11 @@ export default {
 <style scoped>
 h1 {
   margin: 40px 0 0;
-  color: #854442;
 ;
 }
 
 h3 {
   margin: 10px 0 0;
-  color: #854442;
 }
 
 .body {
@@ -30,5 +28,9 @@ h3 {
   padding: 20px 20px;
   border-radius: 8px;
   max-width: 600px;
+}
+
+.body-text {
+  color: #091833
 }
 </style>
