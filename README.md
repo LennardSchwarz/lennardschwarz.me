@@ -29,8 +29,8 @@ Use Deploy Now on ionos and set website to "dist" folder on dev for dev.
 ## Favicon
 https://favicon.io/favicon-generator/
 
-![screenshot](/zz_asset/favicon_gen_220824.png)
+![screenshot](/zz_asset/favicon_gen_220825.png)
 
 ## Color pallette
-https://www.color-hex.com/color-palette/389
+https://www.color-hex.com/color-palette/61235
 
