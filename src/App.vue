@@ -1,7 +1,7 @@
 <template>
   <div id="app">
     <Body class="body" />
-    <particles-bg type="cobweb" color="#711c91" num={5} :canvas="{backgroundColor:'#ffffff'}" :bg="true"/>
+    <particles-bg type="cobweb" color="#711c91" :num=30 :canvas="{backgroundColor:'#ffffff'}" :bg="true"/>
   </div>
 </template>
 
