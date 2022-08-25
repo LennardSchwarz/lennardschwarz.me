@@ -15,13 +15,13 @@ export default {
 <style scoped>
 h1 {
   margin: 40px 0 0;
-  color: #854442;
+  color: #3c2f2f;
 ;
 }
 
 h3 {
   margin: 10px 0 0;
-  color: #854442;
+  color: #3c2f2f;
 }
 
 .body {
