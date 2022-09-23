@@ -14,20 +14,17 @@ export default {
 <!-- Add "scoped" attribute to limit CSS to this component only -->
 <style scoped>
 h1 {
-  margin: 40px 0 0;
+  margin: 0 0 0;
 ;
 }
 
 h3 {
-  margin: 10px 0 0;
+  margin: 1rem 0 0;
 }
 
 .body {
-  margin: 200px auto;
+  margin: auto;
   text-align: center;
-  padding: 20px 20px;
-  border-radius: 8px;
-  max-width: 600px;
 }
 
 .body-text {
