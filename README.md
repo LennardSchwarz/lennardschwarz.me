@@ -1,5 +1,5 @@
 # lennardschwarz.me
-Code for the landing page lennardschwarz.me
+Landing page for [www.lennardschwarz.me](https://lennardschwarz.me)
 
 # Template
 Vue js with two components and particles bg for vue
